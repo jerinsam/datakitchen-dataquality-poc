@@ -68,3 +68,9 @@ Execute below commands in WSL shell -
 
 - *Manage TestGen and Postgres Docker Containers*  - 
    TestGen and Postgres Dockers Containers and Images can be managed using Docker CLI commands. Refer github repo https://github.com/jerinsam/docker-learn-hands-on to understand the basics of Docker.
+
+
+#### Important Links
+- https://datakitchen.io/dataops-observability-product/
+- https://docs.datakitchen.io/articles/?hsCtaAttrib=185465269285#!dataops-testgen-help/install-testgen-open-source
+- https://docs.datakitchen.io/articles/#!dataops-observability-help/install-observability-open-source
